@@ -4,6 +4,10 @@
 using namespace std;
 int main()
 {
+    int mat;
+    cout << "Matrícula:" << endl;
+    cin >> mat;
+
     int nota1, nota2, media;
   
     cout << "Nota 1: ";
