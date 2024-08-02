@@ -18,7 +18,7 @@ int main()
     
     media_aritmetica = (nota1 + nota2) / 2;
     
-    // Média
+    // Cálculo da média aritmética
     cout << "Média aritmética: " << media_aritmetica;
     return 0;
 }
