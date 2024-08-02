@@ -20,5 +20,8 @@ int main()
     
     // Cálculo da média aritmética
     cout << "Média aritmética: " << media_aritmetica;
+
+
+    cout << "Mundança de Danilo";
     return 0;
 }
