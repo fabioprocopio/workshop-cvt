@@ -20,5 +20,8 @@ int main()
     
     // Cálculo da média aritmética
     cout << "Média aritmética: " << media_aritmetica;
+
+
+    cout << "Mudança de Gatinho-Manhoso";
     return 0;
 }
