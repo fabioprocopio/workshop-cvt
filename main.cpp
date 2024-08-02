@@ -22,6 +22,8 @@ int main()
     cout << "Média aritmética: " << media_aritmetica;
 
 
+
     cout << "Mudança de Gatinho-Manhoso";
+    cout << "Mundança de Danilo";
     return 0;
 }
