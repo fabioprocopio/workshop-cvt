@@ -8,16 +8,17 @@ int main()
     cout << "Matrícula:" << endl;
     cin >> mat;
 
-    int nota1, nota2, media;
+    int nota1, nota2;
+    int media_aritmetica;
   
     cout << "Nota 1: ";
     cin >> nota1;
     cout << "Nota 2: ";
     cin >> nota2;
     
-    media = (nota1 + nota2) / 2;
+    media_aritmetica = (nota1 + nota2) / 2;
     
     // Média
-    cout << "Média: " << media;
+    cout << "Média aritmética: " << media_aritmetica;
     return 0;
 }
