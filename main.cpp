@@ -25,7 +25,14 @@ int main()
 
     cout << "Mudança de Gatinho-Manhoso";
     cout << "Mundança de Danilo";
+
     cout << "Meninas e Lucas by Procópio"
-    //
+    //Lá vai!!!
+
+    cout << "Meninas e Lucas by Procópio";
+    cout << "Cecília";
+    cout << "Lucas";
+
+
     return 0;
 }
